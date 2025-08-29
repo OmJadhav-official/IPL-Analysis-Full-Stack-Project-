@@ -28,7 +28,7 @@ The final dashboard delivers a comprehensive analytical view of IPL 2023, highli
 ---
 
 ## 📊 Dashboard Preview  
-![IPL 2023 Dashboard Preview](dashboard_image.png)  
+![IPL 2023 Dashboard Preview](https://github.com/OmJadhav-official/IPL-Analysis-Full-Stack-Project-/blob/main/IPL%20Analysis.png)  
 *Interactive Power BI dashboard showcasing key metrics, top players, and team performance.*
 
 ---
